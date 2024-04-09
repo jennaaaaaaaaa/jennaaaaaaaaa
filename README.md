@@ -6,7 +6,7 @@
 
 ### Projects
 - 개발자들의 스터디/사이드프로젝트를 위한 사이트 [BuddyDoc](https://github.com/jennaaaaaaaaa/buddydoc-backend)
-- 배달 플랫폼 [yogiyot](https://github.com/jennaaaaaaaaa/yogiyot)
+- 원하는 음식점에서 음식 주문할 수 있는 플랫폼 [yogiyot](https://github.com/jennaaaaaaaaa/yogiyot)
 
 <!--
 - 주변 가까운 병원을 찾을 수 있는 사이트 [모두의 병원]()
