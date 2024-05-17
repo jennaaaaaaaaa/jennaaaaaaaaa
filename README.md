@@ -8,7 +8,7 @@
 ### Projects
 - 개발자들의 스터디/사이드프로젝트를 위한 사이트 [BuddyDoc](https://github.com/jennaaaaaaaaa/buddydoc-backend)
 - 원하는 음식점에서 음식 주문할 수 있는 플랫폼 [yogiyot](https://github.com/jennaaaaaaaaa/yogiyot)
--->
+
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
