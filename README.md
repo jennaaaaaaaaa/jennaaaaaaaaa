@@ -1,4 +1,4 @@
-<!--
+
 ### Backend Engineer 💻
 
 - 버디독 프로젝트 중 게시글 목록에서 유저들의 프로필 이미지를 볼 수 있게 하거나 게시글에 신청 마감 날짜가 지난 게시글에 마감 표시를 추가할 수 있는 등 사용자에게 더 좋은 서비스를 제공하기 위해 개선해 본 경험이 있습니다. [유저피드백](https://maddening-shelf-99c.notion.site/240229-03a69a814cff44fca53fdd6dfe0bc4eb)
@@ -9,14 +9,14 @@
 - 개발자들의 스터디/사이드프로젝트를 위한 사이트 [BuddyDoc](https://github.com/jennaaaaaaaaa/buddydoc-backend)
 - 원하는 음식점에서 음식 주문할 수 있는 플랫폼 [yogiyot](https://github.com/jennaaaaaaaaa/yogiyot)
 
-
+<!--
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
- <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/amazonsimpleemailservice-DD344C?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-
+-->
 <!--
 - 주변 가까운 병원을 찾을 수 있는 사이트 [모두의 병원]()
 - 게시물을 작성할 수 있는 [기민한 게시판]()
@@ -54,6 +54,4 @@ Here are some ideas to get you started:
 
 ___
 
-
--->
 
